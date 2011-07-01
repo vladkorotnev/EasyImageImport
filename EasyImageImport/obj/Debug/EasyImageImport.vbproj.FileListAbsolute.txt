@@ -1,0 +1,12 @@
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\bin\Debug\EasyImageImport.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\bin\Debug\EasyImageImport.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\bin\Debug\EasyImageImport.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\bin\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.vbproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\EasyImageImport\obj\Debug\EasyImageImport.pdb

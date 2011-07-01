@@ -1,0 +1,16 @@
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\TestEasyPhotoImport.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\TestEasyPhotoImport.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\TestEasyPhotoImport.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\EasyImageImport.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\EasyImageImport.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\bin\Debug\EasyImageImport.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.Form1.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.exe
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.xml
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.pdb
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\Interop.WIALib.dll
+C:\Documents and Settings\admin\Мои документы\Visual Studio 2008\Projects\EasyImageImport\TestEasyPhotoImport\obj\Debug\TestEasyPhotoImport.vbproj.ResolveComReference.cache
