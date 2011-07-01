@@ -1,0 +1,4 @@
+A library to make WIA (Windows Image Acquisition) integration easy.
+Don't forget to add a reference to C:\WINDOWS\system32\wiascr.dll to your project that uses this lib as well. You will need it.
+Sincerely,
+~ Vladislav Korotnev
